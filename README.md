@@ -2,6 +2,8 @@
 
 This project utilizes Streamlit to create a web application called Smart ATS that helps users improve their resumes for Applicant Tracking Systems (ATS). 
 
+Model Used: 'gemini-pro'
+
 ### Functionalities:
 
 * JD Match Percentage: Analyzes how well a resume matches a given job description and provides a percentage score.
